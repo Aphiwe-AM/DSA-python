@@ -1,4 +1,3 @@
-# DSA-python
 # DSA in Python Progress
 
 Tracking my 6-week Data Structures and Algorithms journey in Python following the NeetCode 150 roadmap.
